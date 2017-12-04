@@ -10,3 +10,8 @@ This is the repository for the code for Java MongoDB App.
 • Apache Maven Version 3.3.9
 
 • MongoDB Version 3.2.8
+
+
+**Credits:**
+
+• MongoDB Inc.
